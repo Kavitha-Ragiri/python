@@ -1,0 +1,11 @@
+a=set()
+fruits={"apple","ball","cat"}
+d=set([1,2,3,4,1,2,3])
+fruits.add("dog")
+d.remove(4)
+a.add("kavi")
+e=d.union(fruits)
+print(a)
+print(fruits)
+print(d)
+print(e)
