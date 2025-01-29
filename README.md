@@ -1,2 +1,2 @@
 # python_practice_files
-python programming files
+python practicing files
